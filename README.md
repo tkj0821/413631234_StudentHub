@@ -2,6 +2,11 @@
 
 學號：413631234。課程來源：https://github.com/yyyxi18/115_StudentHub
 
+## Postman 測試截圖
+
+- [findAll（200 OK）](screenshots/findAll/413631234.jpg)
+- [insertOne（200 OK）](screenshots/insertOne/413631234.jpg)
+
 ## 本機啟動（Docker）
 
 1. 啟動 Docker Desktop。
